@@ -1,7 +1,9 @@
+.gitignore
 .DS_Store
 node_modules
 dist
 /src/network
+src/network/request.js
 *.zip
 *.rar
 
